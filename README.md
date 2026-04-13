@@ -7,7 +7,7 @@
 ![build](https://github.com/DerStimmler/better-aliexpress/actions/workflows/build.yml/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/DerStimmler/better-aliexpress)](https://github.com/DerStimmler/better-aliexpress/blob/main/LICENSE)
 
-Extension to enhance your AliExpress experience
+Extension to enhance your AliExpress experience. Fixed Manifest v3 by danloGIT/Kardani
 
 ## Features
 
